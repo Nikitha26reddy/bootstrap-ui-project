@@ -68,7 +68,7 @@ This was achieved using Bootstrap’s grid system and utility classes.
 
 ##  Time Taken
 
-Approximately 1-2 hours to complete the project.
+Approximately 2-3 hours to complete the project.
 
 ## Project Reflection
 
