@@ -2,7 +2,7 @@
 
 ## Live Demo
 
-https://Nikitha26reddy.github.io/bootstrap-ui-project
+https://nikitha26reddy.github.io/bootstrap-ui-project/
 
 ## Project Overview
 
@@ -83,4 +83,4 @@ Instead of copying templates, I combined different components like navbar, cards
 ## Submission Details
 
 * GitHub Repository: https://github.com/Nikitha26reddy/bootstrap-ui-project
-* Live Preview: https://Nikitha26reddy.github.io/bootstrap-ui-project
+* Live Preview: https://nikitha26reddy.github.io/bootstrap-ui-project/
